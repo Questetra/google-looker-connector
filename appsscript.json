@@ -1,0 +1,20 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Questetra BPM Suite Process List",
+    "logoUrl": "https://cdn.questetra.net/s/15.1.1/image/product/ProductLogoS.png",
+    "company": "Questetra, Inc.",
+    "companyUrl": "hhttps://questetra.com/",
+    "addonUrl": "https://questetra.com/",
+    "supportUrl": "https://support.questetra.com/",
+    "description": "Get a list of Processes in Questetra BPM Suite",
+    "sources": ["qbpms"]
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request"
+  ]
+}
